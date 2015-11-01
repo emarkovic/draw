@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+#shape {
+	position: absolute;
+	top: 18px;
+	left: 18px;
+	width: 16px;
+	height: 16px;
+}
+
+.menu-item {
+	position: absolute;
+	left: 5px;
+	font-size: 20px;
+	color: black;
+}
+.menu-item:hover {
+	color: rgb(0, 238, 238);
+	cursor: pointer;
+}
+#ellipse {
+	top: 100px;
+}
+#triangle {
+	top: 124px;
+}
+#rect {
+	top: 148px;
+}
+#eraser {
+	top: 170px;
+}
+
+#green {
+	top: 220px;
+	color: rgb(46, 64, 69);
+}
+#blue {
+	top: 241px;
+	color: rgb(131, 173, 181);
+}
+#lpurp {
+	top: 262px;
+	color: rgb(199, 187, 201);
+}
+#dpurp {
+	top: 283px;
+	color: rgb(94, 60, 88);
+}
+#tan {
+	top: 304px;
+	color: rgb(191, 181, 178);
+}
+
+#plus {
+	top: 354px;
+}
+#minus {
+	top: 375px;
+}
+
+#save {
+	top: 425px;
+}
